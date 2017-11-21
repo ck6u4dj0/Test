@@ -1,0 +1,2 @@
+cat hi > tests.txt
+cat > testing.txt
